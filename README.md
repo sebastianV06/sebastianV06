@@ -7,5 +7,5 @@ About:
 - Learning : Frontend Development ⚡ | UI Design 🔥
 - Languages : HTML, CSS, JavaScript, React.j
 - Hobbies : Sport and Music 🎧
-- Organization : Platzi
+- Organization : Megaterios S.A.S.
 
